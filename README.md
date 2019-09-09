@@ -1,3 +1,4 @@
 # MEAN-STACK-APP
-A very basic skelton with NODE + EXPRESS + MONGO
-This is a POC, can be used to learn Node Js.
+An with NODE + EXPRESS + MONGO and Angular 2 as UI, with all CRUD operations
+
+
